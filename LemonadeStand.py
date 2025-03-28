@@ -1,3 +1,12 @@
+# At a lemonade stand, each Lemonade costs $5 Customers ye
+# standing in a queue to buy from you paying one  at a time in
+# order specified by bills Each customer pay either a $5, $10, or
+# $20 bill You must provide the correct change to each customer
+
+# You start with no Yow task is to determine
+# whethe pu cm proade the correct chart* to etery customer
+# If possibie, print true otherwise print flase
+
 n = int(input())
 arr = list(map(int,input().split()))
 five = 0

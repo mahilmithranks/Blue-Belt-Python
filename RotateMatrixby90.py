@@ -1,3 +1,16 @@
+# Given a square matrix of size n x n, write a program to rotate
+# the matrix by 90 degrees clockwise.
+# Input:
+# The input consists of n lines, where each line contains n space-
+# separated integers representing the elements of the matrix.
+# Output:
+# Print the rotated matrix.
+# Constraints:
+# • The size of the matrix is between 1 and 1000.
+# (1 n leee)
+# • The matrix elements are integers in the range of -1000 to 1000
+
+
 n = int(input())
 store = []
 for i in range(n):

@@ -1,3 +1,15 @@
+# Write a program to check if two given strings are anagrams of
+# each other. Anagrams are strings formed by rearranging the
+# letters of another string while using all the original letters
+# exactly once.
+# Input:
+# Two strings, each containing only lowercase letters and no
+# spaces.
+# Output:
+# Print •Anagrams" if the strings are anagrams of each other;
+# otherwise, print "Not Anagrams".
+
+
 arr = input().split()
 t = arr[0]
 s = arr[1]
